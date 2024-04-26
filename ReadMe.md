@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 Hello! I'm Daniel Barbosa, a computer science student of UFT(Universidade Federal do Tocantins).<br>I am currently working to improve my skills to become a backend developer.<br>Feel free to look at my codes and give feedbacks when possible!<br><br><br><br>
 
 
